@@ -11,7 +11,7 @@
 	let pageLinks: Link[] = [
 		{ name: 'Home', href: '/' },
 		{ name: 'Midterm', href: '/midterm' },
-		{ name: 'Final', href: '/final-exam' },
+		{ name: 'Final', href: '/final' },
 		{ name: 'Contact', href: '/contact' }
 	];
 </script>
