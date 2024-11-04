@@ -20,7 +20,7 @@
 	</Card.Root>
 	<Card.Root class="">
 		<Card.Header>
-			<Card.Title>Midterm</Card.Title>
+			<Card.Title>Welcome to My E-Portfolio</Card.Title>
 			<Card.Description
 				>Hello and welcome! I'm excited to share my academic journey and professional growth with
 				you through this e-portfolio. Here, you'll find a collection of my projects, achievements,
