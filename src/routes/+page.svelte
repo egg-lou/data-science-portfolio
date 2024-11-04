@@ -16,7 +16,7 @@
 </div>
 <div class="grid gap-6 md:grid-cols-2">
 	<Card.Root class="flex items-center justify-center">
-		<img src={profilePicture} alt="profile picture" class="h-[250px] w-[250px] rounded-full" />
+		<img src={profilePicture} alt="profile picture" class="mb-4 h-[250px] w-[250px] rounded-full" />
 	</Card.Root>
 	<Card.Root class="">
 		<Card.Header>
