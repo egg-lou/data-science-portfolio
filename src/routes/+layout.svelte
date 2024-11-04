@@ -7,8 +7,12 @@
 </script>
 
 <ModeWatcher />
-<Navbar />
-<div class="flex min-h-dvh w-full items-center px-10">
-	{@render children()}
+<div class="min-h-screen">
+	<div class="relative flex min-h-dvh flex-col">
+		<Navbar />
+		<main class="container mx-auto max-w-7xl flex-grow px-6 pb-5 pt-5">
+			{@render children()}
+		</main>
+		<Footer />
+	</div>
 </div>
-<Footer />

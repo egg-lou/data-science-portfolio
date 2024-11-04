@@ -9,10 +9,10 @@
 <nav
 	class="sticky top-0 flex h-16 w-full items-center justify-between border-b-2 bg-transparent px-6 backdrop-blur"
 >
-	<div class="flex items-center gap-2">
+	<a href="/" class="flex items-center gap-2">
 		<img src={logo} alt="logo" class="h-5 w-5" />
 		<h1 class="text-md font-semibold">Rafael Miguel | BSIT 3 - 5</h1>
-	</div>
+	</a>
 	<div class="flex items-center gap-3">
 		<ThemeSwitcher />
 		<div class="hidden items-center gap-3 lg:flex">
